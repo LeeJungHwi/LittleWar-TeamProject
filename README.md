@@ -13,7 +13,7 @@
 - Tower Base : 모든 타워 공통 멤버 정의
 - ArcherTower Base : Tower Base 상속 ⇒ 아쳐 타워 공통 멤버 정의
 - MagicTower Base : Tower Base 상속 ⇒ 매직 타워 공통 멤버 정의
-- StonTower 1, 2 : Tower Base 상속 ⇒ 더 이상 확장 하지 않고 구현
+- StoneTower 1, 2 : Tower Base 상속 ⇒ 더 이상 확장 하지 않고 구현
 - ArcherTower 1, 2, 3, 4 : ArcherTower Base 상속 ⇒ 각 아쳐 타워 구체화
 - MagicTower 1, 2, 3, 4 : MagicTower Base 상속 ⇒ 각 매직 타워 구체화
 - TowerManager : Tower Base 참조 ⇒ 타워 설치, 해제, 업그레이드 관리
