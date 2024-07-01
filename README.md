@@ -1,5 +1,7 @@
 ⭐️ 전북대학교 캡스톤 팀 프로젝트에서 기여했던 것을 구분하기 쉽게 분리한 레포 입니다.  
 ✨ [팀 프로젝트 레포지토리](https://github.com/gdevhun/LittleWar)
+<br>
+✨ [팀 프로젝트 스케줄링](https://river-pearl-643.notion.site/CapstoneTeamProject-de3a45a7dabe47f3b3bb3645cffc6a8d?pvs=4)
 
 <br>
 
